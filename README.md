@@ -7,3 +7,5 @@
 5. The king of the contract now becomes the Attack contract
 6. DOS (Denial of service attack) by refusal of ether happens
 7. When another address want to claimThrone and the Attack contract refuses to accept ether due to lack of recieve or fallback function
+
+### this is the push method

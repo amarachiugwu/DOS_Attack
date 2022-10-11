@@ -16,3 +16,6 @@ contract Attack {
     }
 
 }
+
+// this is the pull method
+// this way the attack contract cannot pose a DOS attack of this contract
